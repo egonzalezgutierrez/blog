@@ -85,19 +85,4 @@ class Posts_model extends CI_Model {
         $this->db->insert('posts', $this);
     }
     
-    /**
-     * Acción censurePost que censurará los posts de la aplicación
-     *
-     * @param int $id_post identificador del post ha censurar
-     */
-    function censurePost($id_post) {
-    	$data = array(
-    		'censured' => 1,
-    		'updated' =>  date(DATABASE_DATE_FORMAT),
-    	);
-    	
-    	$this->db->where('id_post', $id_post);
-    	$this->db->update('posts', $data); 
-    }
-    
 }

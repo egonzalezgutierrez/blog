@@ -5,6 +5,4 @@ $lang['posts.date'] = "Date";
 $lang['posts.content'] = "Content";
 $lang['posts.add'] = "Add";
 $lang['posts.added'] = "Post added";
-$lang['posts.censure'] = "Censure post";
-$lang['posts.censured'] = "Post censured";
 ?>

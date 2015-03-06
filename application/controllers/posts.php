@@ -59,23 +59,4 @@ class Posts extends BlogController {
 			$this->load->view('default', $this->data);
 		}
 	}
-	
-	/**
-	 * Acción censurePost que se encargará de censurar los posts en la aplicación.
-	 * Comprobará que existe un usuario identificado y con rol de ADMIN.
-	 * Mostrará los mensajes oportunos. Y redireccionará si fuera necesario.
-	 *
-	 * @param int $id_post identificar del post a censurar
-	 * @author		egonzalez@kitmaker.com
-	 */
-	public function censurePost($id_post) {
-		if( !( ($user = $this->session->userdata('user')) && $user['id_rol'] == ADMIN) ) {
-			redirect('posts/index', 'refresh');
-		}
-	
-		$this->load->model('Posts_model');
-		$this->Posts_model->censurePost($id_post);
-		$this->session->set_flashdata('session.message', lang('posts.censured'));
-		redirect('posts/index', 'refresh');
-	}
 }
