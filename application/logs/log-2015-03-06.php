@@ -3806,3 +3806,1119 @@ DEBUG - 2015-03-06 13:40:56 --> File loaded: application/views/footer.php
 DEBUG - 2015-03-06 13:40:56 --> File loaded: application/views/default.php
 DEBUG - 2015-03-06 13:40:56 --> Final output sent to browser
 DEBUG - 2015-03-06 13:40:56 --> Total execution time: 0.0600
+DEBUG - 2015-03-06 17:35:03 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:03 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:03 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:03 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:03 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:03 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:03 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:03 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:03 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:03 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:03 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:03 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:03 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:03 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:03 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:03 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:03 --> Total execution time: 0.0680
+DEBUG - 2015-03-06 17:35:04 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:04 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:04 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:04 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:04 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:04 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:04 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:04 --> Total execution time: 0.0630
+DEBUG - 2015-03-06 17:35:04 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:04 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:04 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:04 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:04 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:04 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:04 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:04 --> Total execution time: 0.0670
+DEBUG - 2015-03-06 17:35:04 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:04 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:04 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:04 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:04 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:04 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:04 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:04 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:04 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:04 --> Total execution time: 0.0500
+DEBUG - 2015-03-06 17:35:05 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:05 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:05 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:05 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:05 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:05 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:05 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:05 --> Total execution time: 0.0530
+DEBUG - 2015-03-06 17:35:05 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:05 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:05 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:05 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:05 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:05 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:05 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:05 --> Total execution time: 0.0560
+DEBUG - 2015-03-06 17:35:05 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:05 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:05 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:05 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:05 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:05 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:05 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:05 --> Total execution time: 0.0470
+DEBUG - 2015-03-06 17:35:05 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:05 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:05 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:05 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:05 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:05 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:05 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:05 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:05 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:05 --> Total execution time: 0.0710
+DEBUG - 2015-03-06 17:35:06 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:06 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:06 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:06 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:06 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:06 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:06 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:06 --> Total execution time: 0.0670
+DEBUG - 2015-03-06 17:35:06 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:06 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:06 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:06 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:06 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:06 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:06 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:06 --> Total execution time: 0.0590
+DEBUG - 2015-03-06 17:35:06 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:06 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:06 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:06 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:06 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:06 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:06 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:06 --> Total execution time: 0.0810
+DEBUG - 2015-03-06 17:35:06 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:06 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:06 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:06 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:06 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:06 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:06 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:06 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:06 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:06 --> Total execution time: 0.0630
+DEBUG - 2015-03-06 17:35:45 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:45 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:45 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:45 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:45 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:45 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:45 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:45 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:45 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:45 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:45 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:45 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:45 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:45 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:45 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:45 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:45 --> Total execution time: 0.0640
+DEBUG - 2015-03-06 17:35:46 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:46 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:46 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:46 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:46 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:46 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:46 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:46 --> Total execution time: 0.0750
+DEBUG - 2015-03-06 17:35:46 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:46 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:46 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:46 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:46 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:46 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:46 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:46 --> Total execution time: 0.0450
+DEBUG - 2015-03-06 17:35:46 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:46 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:46 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:46 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:46 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:46 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:46 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:46 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:46 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:46 --> Total execution time: 0.0470
+DEBUG - 2015-03-06 17:35:47 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:47 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:47 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:47 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:47 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:47 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:47 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:47 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:47 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:47 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:47 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:47 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:47 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:47 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> Helper loaded: form_helper
+DEBUG - 2015-03-06 17:35:47 --> Form Validation Class Initialized
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/form_validation.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/login.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:47 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:47 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:47 --> Total execution time: 0.0580
+DEBUG - 2015-03-06 17:35:50 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:50 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:50 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:50 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Database Driver Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2015-03-06 17:35:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:50 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:50 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:50 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:50 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: form_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: form_helper
+DEBUG - 2015-03-06 17:35:50 --> Form Validation Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Form Validation Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/form_validation_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:50 --> Total execution time: 0.0530
+DEBUG - 2015-03-06 17:35:50 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:50 --> Total execution time: 0.0530
+DEBUG - 2015-03-06 17:35:50 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:50 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:50 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:50 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:50 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:50 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:50 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:50 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:50 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:50 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:50 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:50 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:50 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:50 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:50 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:50 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:50 --> Total execution time: 0.0680
+DEBUG - 2015-03-06 17:35:50 --> Total execution time: 0.0680
+DEBUG - 2015-03-06 17:35:52 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:52 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:52 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:52 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:52 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:52 --> Controller Class Initialized
+ERROR - 2015-03-06 17:35:52 --> Could not find the language line "seo.metatitle.posts.censurePost"
+ERROR - 2015-03-06 17:35:52 --> Could not find the language line "seo.metadescription.posts.censurePost"
+ERROR - 2015-03-06 17:35:52 --> Could not find the language line "seo.metakeywords.posts.censurePost"
+DEBUG - 2015-03-06 17:35:52 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:52 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:52 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:52 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:52 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:52 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:52 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:52 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:52 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:52 --> Total execution time: 0.0540
+DEBUG - 2015-03-06 17:35:54 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:54 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:54 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:54 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:54 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:54 --> Controller Class Initialized
+ERROR - 2015-03-06 17:35:54 --> Could not find the language line "seo.metatitle.users.logout"
+ERROR - 2015-03-06 17:35:54 --> Could not find the language line "seo.metadescription.users.logout"
+ERROR - 2015-03-06 17:35:54 --> Could not find the language line "seo.metakeywords.users.logout"
+DEBUG - 2015-03-06 17:35:54 --> Config Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Hooks Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Utf8 Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> UTF-8 Support Enabled
+DEBUG - 2015-03-06 17:35:54 --> URI Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Router Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Output Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Security Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Input Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2015-03-06 17:35:54 --> Language Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Loader Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: language_helper
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: url_helper
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: utility_helper
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/blog_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/posts_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/users_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/seo_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Language file loaded: language/spanish/datatable_lang.php
+DEBUG - 2015-03-06 17:35:54 --> Database Driver Class Initialized
+ERROR - 2015-03-06 17:35:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\kitmaker\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2015-03-06 17:35:54 --> Session Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Helper loaded: string_helper
+DEBUG - 2015-03-06 17:35:54 --> Encrypt Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Session routines successfully run
+DEBUG - 2015-03-06 17:35:54 --> Controller Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> Model Class Initialized
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/posts.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/css.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/js.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/resources.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/header.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/menu.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/session_message.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/footer.php
+DEBUG - 2015-03-06 17:35:54 --> File loaded: application/views/default.php
+DEBUG - 2015-03-06 17:35:54 --> Final output sent to browser
+DEBUG - 2015-03-06 17:35:54 --> Total execution time: 0.0510
