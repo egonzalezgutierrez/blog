@@ -80,7 +80,7 @@ $autoload['helper'] = array('language', 'url','utility');
 |
 */
 
-$autoload['config'] = array();
+$autoload['config'] = array('config.resources');
 
 
 /*
