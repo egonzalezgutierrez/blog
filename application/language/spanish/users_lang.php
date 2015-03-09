@@ -8,6 +8,7 @@ $lang['users.password'] = "Contraseña";
 $lang['users.login.failure'] = "Datos de acceso incorrectos";
 $lang['users.login.success'] = "Datos de acceso correctos";
 $lang['users.register.success'] = "Registro correcto";
+$lang['users.register.failure'] = "Ya existe un usuario con ese nombre";
 $lang['users.logout.success'] = "Desconexión correcta";
 $lang['users.add'] = "Añadir";
 $lang['users.added'] = "Usuario añadido";

@@ -89,8 +89,14 @@ class Users extends BlogController {
 				$password = md5($this->input->post('password'));
 				
 				$this->load->model('Users_model');
-				$this->Users_model->addUser($username, $password);
-				$this->showErrorsRedirect(SUCCESS, lang('users.register.success'), 'posts/index', 'posts/index');
+				$st = $this->Users_model->addUser($username, $password);
+				$msg = lang('users.register.success');
+				$redirect = 'posts/index';
+				if($st == ERROR) {
+					$msg = lang('users.register.failure');
+					$redirect = 'users/register';
+				}
+				$this->showErrorsRedirect($st, $msg, $redirect, $redirect);
 			}else {
 				$this->showErrorsRedirect(ERROR, validation_errors(), null, null);
 			}

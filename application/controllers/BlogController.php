@@ -120,21 +120,25 @@ class BlogController extends CI_Controller {
 	 * @author egonzalez@kitmaker.com
 	 */
 	protected function showErrorsRedirect($st, $msg, $aRedirect, $sRedirect) {
-		if($st == SUCCESS) {
-			$this->session->set_flashdata('session.message', $msg);
-		}
+		$controller = $this->router->fetch_class();
+		$action = $this->router->fetch_method();
+		
 		if($this->input->is_ajax_request()) {
 			$errors = array(
 					'st' => $st,
 					'msg' => $msg,
 			);
 			if(!is_null($aRedirect)) {
+				if($controller.'/'.$action != $aRedirect) {
+					$this->session->set_flashdata('session.message', $msg);
+				}
 				$errors['redirect'] = site_url() . '/' . $this->data['language'] . '/' . $aRedirect;
 			}
 			echo json_encode($errors);
 		}else {
 			$this->data['validation_message'] = $msg;
 			if(!is_null($sRedirect)) {
+				$this->session->set_flashdata('session.message', $msg);
 				redirect($sRedirect, 'refresh');
 			}
 		}

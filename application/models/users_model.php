@@ -66,16 +66,29 @@ class Users_model extends CI_Model {
     
     /**
      * Acción addUser que añadirá un nuevo usuario en la aplicación.
+     * Si ya existe un usuario con ese nombre. Enviará el estado de ERROR.
      *
      * @param string $username nombre de usuario
      * @param string $password contraseña
+     * 
+     * @return int $st estado del registro
      */
     function addUser($username, $password) {
-    	$this->id_rol = USER;
-    	$this->name = $username;
-    	$this->pass = $password;
-    	$this->created = date(DATABASE_DATE_FORMAT);
-    	$this->updated = date(DATABASE_DATE_FORMAT);
-    	$this->db->insert('users', $this);
+    	$st = SUCCESS;
+    	
+    	$this->db->where('name', $username);
+    	$query = $this->db->get('users');
+    	if($query->num_rows() > 0) {
+    		$st = ERROR;
+    	}else {
+	    	$this->id_rol = USER;
+	    	$this->name = $username;
+	    	$this->pass = $password;
+	    	$this->created = date(DATABASE_DATE_FORMAT);
+	    	$this->updated = date(DATABASE_DATE_FORMAT);
+	    	$this->db->insert('users', $this);
+    	}
+    	
+    	return $st;
     }
 }
